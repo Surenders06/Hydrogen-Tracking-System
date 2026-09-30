@@ -1,0 +1,6 @@
+{
+  "name": "Hydrogen Digital Tracking System",
+  "description": "Enterprise digital monitoring platform for the hydrogen supply chain: production, storage, transportation, deliveries, and customer demand forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
